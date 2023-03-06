@@ -1,7 +1,3 @@
-[https://reffect.co.jp/html/graphql](https://reffect.co.jp/html/graphql)
-
-
-
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
